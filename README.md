@@ -1,0 +1,2 @@
+# code-server
+web browser
